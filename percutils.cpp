@@ -15,5 +15,5 @@ void print(char * str){
 
 void println(char * str){
     print(str);
-    std::cout << "";
+    std::cout << "\n";
 }
