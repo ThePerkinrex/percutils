@@ -19,3 +19,12 @@ void println(char * str){
     print(str);
     std::cout << "\n";
 }
+
+void print(const char * str){
+    std::cout << str;
+}
+
+void println(const char * str){
+    print(str);
+    std::cout << "\n";
+}
