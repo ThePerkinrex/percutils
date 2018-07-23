@@ -16,3 +16,7 @@
 void print(char * str);
 
 void println(char * str);
+
+void print(const char * str);
+
+void println(const char * str);
