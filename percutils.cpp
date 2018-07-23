@@ -9,6 +9,8 @@
 #include "percutils.hpp"
 #include <iostream>
 
+
+// Simple print statements for debugging
 void print(char * str){
     std::cout << str;
 }
